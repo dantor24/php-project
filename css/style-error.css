@@ -1,0 +1,26 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+
+#body-error500 {
+    display: inline-block;
+    width: 100%;
+    background: #eea849; /* fallback for old browsers */
+    height: 100vh;
+    margin: 0;
+    color: white;
+  }
+  
+#title-error-500 {
+    margin: .8em 3rem;
+    font: 4em Roboto;
+  }
+#txt-error500 {
+    display: inline-block;
+    margin: .2em 3rem;
+    font: 2em Roboto;
+  }
+#error-triangle{
+  color: red;
+}
